@@ -4,7 +4,7 @@ import {
   PanGestureHandler,
   PanGestureHandlerGestureEvent
 } from 'react-native-gesture-handler';
-import Animated, { Easing } from 'react-native-reanimated';
+import Animated, { EasingNode } from 'react-native-reanimated';
 import { timing } from 'react-native-redash';
 
 import { Divider } from '../Divider';
