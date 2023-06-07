@@ -1,6 +1,6 @@
 import React from 'react';
 import { View } from 'react-native';
-import Animated, { EasingNode } from 'react-native-reanimated';
+import Animated, { EasingNode as Easing } from 'react-native-reanimated';
 import { timing } from 'react-native-redash';
 
 import styles from './DividerStyles';
